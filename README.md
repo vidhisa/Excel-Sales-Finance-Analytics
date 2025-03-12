@@ -20,9 +20,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/vidhisa/Excel-Sales-Finance-Analytics/blob/main/P%26%20L%20Year%20File.pdf
-
-)
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/vidhisa/Excel-Sales-Finance-Analytics/blob/main/P%26%20L%20Year%20File.pdf)
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](_https://github.com/vidhisa/Excel-Sales-Finance-Analytics/blob/main/Report%201%20P%26L.pdf)
 
